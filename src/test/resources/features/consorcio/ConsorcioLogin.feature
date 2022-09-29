@@ -2,7 +2,7 @@ Feature: Ingresar login
 
 	Background:
 		#@PRECOND_P2J-3
-		ingreso a la aplicacion web y navego a la url de consorcio
+		Given ingreso a la aplicacion web y navego a la url de consorcio
 
 	#test de prueba para xray
 	@TEST_P2J-2
